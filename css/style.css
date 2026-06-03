@@ -1,0 +1,9 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+}
+
+#bg{
+    background-color: rgb(79, 79, 79);
+}
