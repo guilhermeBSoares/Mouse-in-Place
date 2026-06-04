@@ -4,6 +4,14 @@ body{
     overflow: hidden;
 }
 
+/* Backgorund */
 #bg{
     background-color: rgb(79, 79, 79);
+    position: relative;
+}
+
+/* Player */
+#player{
+    background-color: yellowgreen;
+    position: absolute;
 }
